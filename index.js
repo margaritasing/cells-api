@@ -1,0 +1,1 @@
+export { RickAndMortyApiDm } from './src/RickAndMortyApiDm.js';
